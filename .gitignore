@@ -1,9 +1,6 @@
 venv/
-data/raw/
-data/models/
-data/processed/
 logs/
 __pycache__/
-*.pkl
 *.pyc
 .env
+data/raw/
